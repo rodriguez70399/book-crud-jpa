@@ -1,0 +1,1 @@
+INSERT INTO `book` VALUES (111,'Java 18','Programacion'),(222,'One Piece','Manga'),(333,'La historia de la 33','Autoayuda'),(444,'La biblia','Religion'),(555,'Harry Potter','Fantasia');INSERT INTO `book` VALUES (111,'Java 18','Programacion'),(222,'One Piece','Manga'),(333,'La historia de la 33','Autoayuda'),(444,'La biblia','Religion'),(555,'Harry Potter','Fantasia');
